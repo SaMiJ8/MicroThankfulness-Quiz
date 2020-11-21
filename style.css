@@ -14,10 +14,15 @@ h2 {
 
 p1 {
   font-size: 30px;
-  color: #581845 ;
+  color: #FFFFFF ;
 }
+
+p2{
+  size: 30px;
+}
+
 body {
-	/* background-image: url("https://cdn.glitch.com/7de0852f-156a-4e01-bda7-07fbc1b00f51%2FV1bdhU6.jpg?v=1605990637121");
+	background-image: url("https://cdn.glitch.com/7de0852f-156a-4e01-bda7-07fbc1b00f51%2FUntitled_Artwork.png?v=1605993674587");
         background-repeat:no-repeat;
-       background-size:cover;*/
+       background-size: 2000px 1300px;
 } 

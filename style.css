@@ -26,3 +26,7 @@ body {
         background-repeat:no-repeat;
        background-size: 1500px 900px;
 } 
+
+image1 {
+  image-size: 10px 20px;
+}

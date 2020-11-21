@@ -5,7 +5,7 @@ body {
 
 h1 {
   font-size: 100px;
-  color: #900C3F;
+  color: #C70039;
 }
 h2 {
   font-size: 60px;
@@ -14,4 +14,10 @@ h2 {
 
 p1 {
   font-size: 30px;
+  color: #581845 ;
 }
+body {
+	background-image: url("https://henricolibrary.org/images/easyblog_articles/79/20181121-Thanksgiving.jpg");
+        background-repeat:no-repeat;
+       background-size:cover;
+} 
